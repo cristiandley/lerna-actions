@@ -9,7 +9,8 @@
   ],
   "scripts": {
     "lerna": "lerna",
-    "new-version": "lerna version --conventional-commits -m 'chore(release): publish %s'"
+    "test": "lerna run test",
+    "new-version": "lerna version --conventional-commits -m \"chore(release): %v publish\""
   },
   "license": "MIT",
   "devDependencies": {
