@@ -4,9 +4,8 @@
     "description": "monorepo package two",
     "main": "index.js",
     "license": "MIT",
-    "private": false,
     "scripts": {
         "test": "echo 'this is a test on pkg-two'"
     },
-    "gitHead": "18f7f3c3ebec0d1d039db63700387a078fee2526"
+    "gitHead": "c6251a764b381af9b8325247e8fb8472f2343ab1"
 }
