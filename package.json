@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "lerna": "lerna",
-    "versionup": "lerna version --conventional-commits --no-git-tag-version"
+    "new-version": "lerna version --conventional-commits -m \"chore(release): publish %v\""
   },
   "license": "MIT",
   "devDependencies": {
