@@ -7,5 +7,8 @@
     "scripts": {
         "test": "echo 'this is a test on pkg-one'"
     },
-    "gitHead": "c6251a764b381af9b8325247e8fb8472f2343ab1"
+    "publishConfig": {
+        "access": "public"
+    },
+    "gitHead": "69b05903b7f9ccecfcd6b9aa9a2d35537f2850f4"
 }
