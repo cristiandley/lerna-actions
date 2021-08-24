@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/cristiandley/lerna-actions/compare/@cristiandley/pkg-two@0.1.0...@cristiandley/pkg-two@0.1.1) (2021-08-24)
+
+**Note:** Version bump only for package @cristiandley/pkg-two
+
+
+
+
+
 # [0.1.0](https://github.com/cristiandley/lerna-actions/compare/@cristiandley/pkg-two@0.0.2...@cristiandley/pkg-two@0.1.0) (2021-08-24)
 
 

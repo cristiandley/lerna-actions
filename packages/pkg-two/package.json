@@ -1,10 +1,10 @@
 {
     "name": "@cristiandley/pkg-two",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "monorepo package two",
     "main": "index.js",
     "license": "MIT",
     "scripts": {
-      "test": "echo 'this is a test on pkg-two'"
+        "test": "echo 'this is a test on pkg-two'"
     }
 }
