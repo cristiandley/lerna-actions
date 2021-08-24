@@ -7,5 +7,6 @@
     "license": "MIT",
     "scripts": {
         "test": "echo 'this is a test on pkg-one'"
-    }
+    },
+    "gitHead": "18f7f3c3ebec0d1d039db63700387a078fee2526"
 }
