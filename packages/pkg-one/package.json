@@ -1,6 +1,6 @@
 {
     "name": "@cristiandley/pkg-one",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "description": "monorepo package two for fun",
     "main": "index.js",
     "private": false,
