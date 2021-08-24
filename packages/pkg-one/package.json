@@ -3,6 +3,7 @@
     "version": "0.1.4",
     "description": "monorepo package two for fun",
     "main": "index.js",
+    "private": false,
     "license": "MIT",
     "scripts": {
         "test": "echo 'this is a test on pkg-one'"
