@@ -1,7 +1,7 @@
 {
     "name": "@cristiandley/pkg-one",
     "version": "0.1.3",
-    "description": "monorepo package two",
+    "description": "monorepo package two for fun",
     "main": "index.js",
     "license": "MIT",
     "scripts": {
