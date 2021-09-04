@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/cristiandley/lerna-actions/compare/@cristiandley/pkg-one@0.1.8...@cristiandley/pkg-one@0.2.0) (2021-09-04)
+
+
+### Features
+
+* **pkg-one:** new readme ([18ab601](https://github.com/cristiandley/lerna-actions/commit/18ab60145ec78924c57ebfd2f7271245b884c4bf))
+
+
+
+
+
 ## [0.1.4](https://github.com/cristiandley/lerna-actions/compare/@cristiandley/pkg-one@0.1.3...@cristiandley/pkg-one@0.1.4) (2021-08-24)
 
 
